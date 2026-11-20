@@ -2,19 +2,17 @@
   "extensions": [
     {
       "name": "Auralix Music Downloader",
-      "description": "Starter listing for downloading audio files from direct links and other sources that explicitly permit downloading. Supports MP3, FLAC, WAV, AAC and M4A when provided by the source.",
+      "description": "Catalogue entry for a planned downloader supporting direct audio file URLs and sources that permit downloads. Package is not yet published.",
       "version": "0.1.0",
-      "type": "utility",
-      "homepage": "https://example.invalid/auralix-music-downloader",
-      "downloadUrl": ""
+      "type": "music",
+      "homepage": "https://github.com/anooptitus75/auralix-extensions"
     },
     {
       "name": "Auralix Video Downloader",
-      "description": "Starter listing for downloading non-DRM video files from direct links and other sources that explicitly permit downloading. Supports MP4 and WebM; available resolutions depend on the source.",
+      "description": "Catalogue entry for a planned downloader supporting direct non-DRM video file URLs and sources that permit downloads. Package is not yet published.",
       "version": "0.1.0",
-      "type": "utility",
-      "homepage": "https://example.invalid/auralix-video-downloader",
-      "downloadUrl": ""
+      "type": "video",
+      "homepage": "https://github.com/anooptitus75/auralix-extensions"
     }
   ]
 }
